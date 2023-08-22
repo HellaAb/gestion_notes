@@ -1,0 +1,22 @@
+.imp{
+        width: 15px;
+        size: 15px;
+      }
+form{
+        /* Uniquement centrer le formulaire sur la page */
+        margin: 0 auto;
+        /* width: 400px; */
+        /* Encadré pour voir les limites du formulaire */
+        padding: 1em;
+        border: 1px solid #CCC;
+        border-radius: 1em; 
+        background-color: rgb(77, 184, 50);
+        margin:auto;
+        width: 600px;
+}
+table tr td{
+        border: 2px solid black;
+        width: 100px;
+        /* color: rgb(0, 0, 0); */
+
+}
